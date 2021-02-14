@@ -22,20 +22,11 @@
   ],
   "author": "André Almeida",
   "license": "ISC",
-  "dependencies": {
-    "node": "^15.4.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@babel/cli": "^7.12.10",
-    "@babel/core": "^7.12.10",
-    "@babel/eslint-parser": "^7.12.1",
-    "@babel/plugin-external-helpers": "^7.12.1",
-    "@babel/plugin-proposal-class-properties": "^7.12.1",
-    "@babel/plugin-proposal-private-methods": "^7.12.1",
-    "@babel/plugin-transform-modules-commonjs": "^7.12.1",
     "@babel/plugin-transform-runtime": "^7.12.10",
     "@babel/preset-env": "^7.12.11",
-    "@babel/register": "^7.12.10",
     "@types/jest": "^26.0.19",
     "eslint": "^7.16.0",
     "eslint-config-airbnb-base": "^14.2.1",
