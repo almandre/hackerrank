@@ -25,5 +25,6 @@ module.exports = {
       'no-restricted-syntax': 0,
       'no-param-reassign': 0,
       'no-undef': 0,
+      'no-unused-vars': 0,
     },
 };
