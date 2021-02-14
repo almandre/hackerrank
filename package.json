@@ -18,7 +18,8 @@
     "Data Structures",
     "Trie",
     "Heap",
-    "Priority Queue"
+    "Priority Queue",
+    "Anagram"
   ],
   "author": "André Almeida",
   "license": "ISC",
