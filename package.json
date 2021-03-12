@@ -19,7 +19,10 @@
     "Trie",
     "Heap",
     "Priority Queue",
-    "Anagram"
+    "Hash Table",
+    "Anagram",
+    "Special Palindrome",
+    "Dynamic Programming"
   ],
   "author": "André Almeida",
   "license": "ISC",
