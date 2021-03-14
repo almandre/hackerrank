@@ -1,7 +1,7 @@
 /* global describe, test, expect */
 import minimumAverage from '../minimum-average';
 
-describe('minimumAverage', () => {
+describe('minimum-average', () => {
     test('Test case 0', () => {
         const customers = [];
 

@@ -1,7 +1,7 @@
 function createMagicSquare(n) {
     const magicSquare = new Array(n)
         .fill()
-        .map(() => new Array(3).fill(0));
+        .map(() => new Array(n).fill(0));
 
     let i = Math.floor(n / 2);
     let j = n - 1;
